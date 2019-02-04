@@ -9,10 +9,10 @@ function addFive(someNumber) {
   //at the end, if I want my function to return something, I need to state it:
   return result
 }
- 
+
 //once our function is declared, we can call addFive, passing in values as arguments
 //in the example test early, scuberGreetingForFeet(199) calls the function with 199 as the argument
- 
+
 addFive(10);
 //returns 15
 addFive(20);
