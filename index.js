@@ -24,10 +24,10 @@ function switchOnCharmFromTip(tip)
 
 switch (tip) {
   case expression:
-    
+
     break;
   default:
-    
+
 }
 
 }
